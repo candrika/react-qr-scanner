@@ -1,2 +1,2 @@
-# react-qr-scanner
+# miki
 Created with CodeSandbox
